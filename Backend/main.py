@@ -31,4 +31,4 @@ async def root():
 
 @app.get("/hola")
 async def hola():
-    return {"mensaje": "¡Todo bien, Omar! El backend ya sirve"}
+    return {"mensaje": "¡Todo bien, Omar y alexis! El backend ya sirve"}

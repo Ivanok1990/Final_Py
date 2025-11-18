@@ -1,1 +1,2 @@
 #pip install --only-binary=all fastapi uvicorn[standard] python-multipart pandas matplotlib
+#pip install --only-binary=all pandas matplotlib
